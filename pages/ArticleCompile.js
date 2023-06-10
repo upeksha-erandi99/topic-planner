@@ -1,5 +1,5 @@
 import React from 'react'
-import MyTextEditor from './TextEditor'
+import MyTextEditor from '../components/TextEditor'
 
 const ArticleCompile = () => {
   return (
