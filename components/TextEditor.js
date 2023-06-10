@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ReactQuill from 'react-quill';
-import styles from './styles/texteditor.css';
+import styles from '../styles/texteditor.css';
 
 const MyTextEditor = () => {
   const [text, setText] = useState('');
